@@ -1,6 +1,4 @@
-### Hi ! 👋 ![109423f76102e5e8f703b70612aaa98b](https://user-images.githubusercontent.com/77483722/134223215-abb8833d-309e-42b9-b6a4-97481d7cedfd.gif) I'm Denis Obraztsov
-
-
+### Hi ! 👋 ![1](https://user-images.githubusercontent.com/77483722/134224084-6cdea3f7-627c-492a-81a6-c17bdd54dc48.gif) I'm Denis Obraztsov
 
 <!--
 **ObraziumVII/ObraziumVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
