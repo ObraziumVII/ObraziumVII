@@ -1,5 +1,4 @@
 
-![giphy (2)](https://user-images.githubusercontent.com/77483722/134231767-024739e0-723f-44ec-92d3-f44158c39325.gif)
 ![den](https://user-images.githubusercontent.com/77483722/134232053-fe063ac1-1513-46f1-9236-caf9024c6133.gif)
 ### Hi ! ![11](https://user-images.githubusercontent.com/77483722/134227723-ca1fd63f-eb9f-4954-b492-3b17478da874.gif) My name is Denis Obraztsov
 
