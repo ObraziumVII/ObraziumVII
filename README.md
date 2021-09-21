@@ -1,8 +1,7 @@
 ### Hi there 👋
-
+![giphy](https://user-images.githubusercontent.com/77483722/134157776-e763fa4d-1273-452f-866e-3a55f471cb42.gif)
 <!--
 **ObraziumVII/ObraziumVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![giphy](https://user-images.githubusercontent.com/77483722/134157776-e763fa4d-1273-452f-866e-3a55f471cb42.gif)
 
 Here are some ideas to get you started:
 
