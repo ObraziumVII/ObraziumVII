@@ -4,6 +4,7 @@
 Welcome to my page!
 I'm JavaScript Developer from Russia ![ru-circle-011](https://user-images.githubusercontent.com/77483722/134236019-31e4cba2-ca1e-4dc2-b34e-c49beb39b1eb.png)
 
+![1280px-React-icon svg](https://user-images.githubusercontent.com/77483722/134237318-799b6b3d-5abb-4607-805b-f285825c83ec.png)
 
 <!--
 **ObraziumVII/ObraziumVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
