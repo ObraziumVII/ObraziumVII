@@ -13,7 +13,7 @@ I'm JavaScript Developer from Russia   ![ru-circle-011](https://user-images.gith
 ### 📖 What I am currently learning
 
 ![ts2](https://user-images.githubusercontent.com/77483722/134290624-54f30c77-e942-46eb-82d4-4dc9dbe592c8.png)  
-аа говнооооd ddww
+https://github.com/ObraziumVII/pals-in-Europe - my first experience with TS 
 
 <!--
 **ObraziumVII/ObraziumVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
