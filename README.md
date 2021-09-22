@@ -5,11 +5,9 @@ Welcome to my page!
 I'm JavaScript Developer from Russia   ![ru-circle-011](https://user-images.githubusercontent.com/77483722/134236019-31e4cba2-ca1e-4dc2-b34e-c49beb39b1eb.png)
 ***
 ### 🛠  Technologies and tools
-
 ![stack2](https://user-images.githubusercontent.com/77483722/134241046-a3797036-a79e-430d-b170-8a3d03926211.png)
 ***
 ### 📖 What I am currently learning
-
 ![ts2](https://user-images.githubusercontent.com/77483722/134290624-54f30c77-e942-46eb-82d4-4dc9dbe592c8.png)  
 https://github.com/ObraziumVII/pals-in-Europe - my first experience with TS. This project was completed in 10 days by 3 authors: https://github.com/ElinaKhisamutdinova, https://github.com/NastasiaKovalchuk and me.
 
