@@ -11,7 +11,8 @@ I'm JavaScript Developer from Russia   ![ru-circle-011](https://user-images.gith
 ### ![ts](https://user-images.githubusercontent.com/77483722/134293042-fbdd6922-1a4d-4dc9-a878-76684e9a3829.png)
 https://github.com/ObraziumVII/pals-in-Europe - my first experience with TS. This project was completed in 10 days by 3 authors: https://github.com/ElinaKhisamutdinova, https://github.com/NastasiaKovalchuk and me. It was a very interesting acquaintance with TS.
 ***
-
+### 👽  What I am interested in learning at some point
+![vue](https://user-images.githubusercontent.com/77483722/134298947-e1c80f51-3848-46ca-af7d-bdf67bb1d4bf.png)
 
 <!--
 **ObraziumVII/ObraziumVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
