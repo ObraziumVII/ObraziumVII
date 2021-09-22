@@ -9,6 +9,7 @@ I'm JavaScript Developer from Russia   ![ru-circle-011](https://user-images.gith
 ***
 ### 📖 What I am currently learning 
 ![ts](https://user-images.githubusercontent.com/77483722/134292833-626647e8-9949-4b95-8863-08a4c09bdf86.png)
+
 https://github.com/ObraziumVII/pals-in-Europe - my first experience with TS. This project was completed in 10 days by 3 authors: https://github.com/ElinaKhisamutdinova, https://github.com/NastasiaKovalchuk and me. It was a very interesting acquaintance with TS.
 ***
 
