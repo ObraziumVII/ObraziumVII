@@ -13,6 +13,7 @@ https://github.com/ObraziumVII/pals-in-Europe - my first experience with TS. Thi
 ***
 ### 👽  What I am interested in learning at some point
 ![vue](https://user-images.githubusercontent.com/77483722/134298947-e1c80f51-3848-46ca-af7d-bdf67bb1d4bf.png)
+***
 
 <!--
 **ObraziumVII/ObraziumVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
