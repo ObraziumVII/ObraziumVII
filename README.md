@@ -15,7 +15,7 @@ https://github.com/ObraziumVII/pals-in-Europe - my first experience with TS. Thi
 ![vue](https://user-images.githubusercontent.com/77483722/134298947-e1c80f51-3848-46ca-af7d-bdf67bb1d4bf.png)
 ***
 ### Thanks for looking at my profile! ![22](https://user-images.githubusercontent.com/77483722/134299606-59d1395f-72a9-4a62-b829-6ce6c1262a77.gif)
-You can contact me by writing to me: 
+You can contact: denis.obraztsov.1@gmail.com, https://t.me/DenisObraztsov
 
 <!--
 **ObraziumVII/ObraziumVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
