@@ -8,7 +8,7 @@ I'm JavaScript Developer from Russia   ![ru-circle-011](https://user-images.gith
 ![stack2](https://user-images.githubusercontent.com/77483722/134241046-a3797036-a79e-430d-b170-8a3d03926211.png)
 ***
 ### 📖 What I am currently learning 
-###![ts](https://user-images.githubusercontent.com/77483722/134293042-fbdd6922-1a4d-4dc9-a878-76684e9a3829.png)
+### ![ts](https://user-images.githubusercontent.com/77483722/134293042-fbdd6922-1a4d-4dc9-a878-76684e9a3829.png)
 https://github.com/ObraziumVII/pals-in-Europe - my first experience with TS. This project was completed in 10 days by 3 authors: https://github.com/ElinaKhisamutdinova, https://github.com/NastasiaKovalchuk and me. It was a very interesting acquaintance with TS.
 ***
 
