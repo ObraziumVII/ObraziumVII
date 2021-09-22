@@ -12,7 +12,7 @@ I'm JavaScript Developer from Russia   ![ru-circle-011](https://user-images.gith
 ***
 ### 📖 What I am currently learning
 
-![ts](https://user-images.githubusercontent.com/77483722/134289092-410e03e8-9fc5-4f34-8f16-f4d6dea750e4.png)
+![ts](https://user-images.githubusercontent.com/77483722/134289092-410e03e8-9fc5-4f34-8f16-f4d6dea750e4.png) - говноооо
 
 <!--
 **ObraziumVII/ObraziumVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
