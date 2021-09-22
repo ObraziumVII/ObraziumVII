@@ -3,12 +3,10 @@
 ### Hi ! ![11](https://user-images.githubusercontent.com/77483722/134227723-ca1fd63f-eb9f-4954-b492-3b17478da874.gif) Nice to see you.
 Welcome to my page!
 I'm JavaScript Developer from Russia   ![ru-circle-011](https://user-images.githubusercontent.com/77483722/134236019-31e4cba2-ca1e-4dc2-b34e-c49beb39b1eb.png)
-
 ***
 ### 🛠  Technologies and tools
 
 ![stack2](https://user-images.githubusercontent.com/77483722/134241046-a3797036-a79e-430d-b170-8a3d03926211.png)
-
 ***
 ### 📖 What I am currently learning
 
